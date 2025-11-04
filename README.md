@@ -2,7 +2,7 @@
 
  | VIzualizar Projeto|Link |
  | ------------- | ---------------------------------------------------------------------------------------------------------------- |
- |Landing Page                |[Projeto]()
+ |Landing Page                |[Projeto](https://deboraliah.github.io/landingpage.web/)
 
 
 ## 📖 Sobre o Projeto
